@@ -17,7 +17,7 @@
     "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001888/manifest.json",
     "manifest_sha256": "8ea9faa2aae1e64d4d6fc41e64a8570a0e32a12537afcd2b88d7ad949910690b",
     "record_id": "RB00001888",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       1,
       2,
@@ -29,9 +29,9 @@
       8
     ],
     "catalogue_canvas_count": 24,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "宮外妊娠治驗（1854 年署記，京都大學 キ/58） / Kyūgai ninshin chiken [Case record of an extrauterine pregnancy]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -53,7 +53,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "titled-cover",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "single",
@@ -88,7 +88,7 @@
             {
               "type": "shelf-note",
               "location": "封面右下墨書",
-              "text": "□□□",
+              "text": "六の四",
               "color": "black"
             }
           ]
@@ -98,11 +98,11 @@
         {
           "side": "single",
           "column": null,
-          "context": "封面右下墨書",
+          "context": "六の四",
           "candidates": [
-            "キノ五八"
+            "六の四"
           ],
-          "note": "前兩筆接於封面近裝線位置，末字疑八；以□保留，與印刷館籤分開。"
+          "note": "封面下緣墨書，依現形候讀，意義待核。"
         }
       ],
       "observations": "封面為小幅題名件，下方及左側稍露同裝冊其他稿紙；只記本篇封面層。"
@@ -122,7 +122,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-case-text",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -265,7 +265,7 @@
             {
               "type": "library-seal",
               "location": "左半葉右上方朱色方篆",
-              "text": "日本京都帝國大學圖書之印",
+              "text": "京都帝國大學圖書之印",
               "color": "red"
             },
             {
@@ -278,7 +278,18 @@
           "main_language": "lzh"
         }
       ],
-      "observations": "右半葉為封面之背，所見題字為透墨。左半葉起連續墨筆漢文，章與正文分層。"
+      "observations": "右半葉為封面之背，所見題字為透墨。左半葉起連續墨筆漢文，章與正文分層。",
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "京都帝國大學圖書之印",
+          "candidates": [
+            "京都帝國大學圖書之印"
+          ],
+          "note": "方篆印右欄兩字，仍待印譜驗證釋文。"
+        }
+      ]
     },
     {
       "image": 3,
@@ -295,7 +306,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-case-text",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -472,7 +483,7 @@
           "side": "left",
           "columns": [
             {
-              "text": "証因請予治診脉沈而細",
+              "text": "証因請予治診脈沈而細",
               "marks": [
                 {
                   "after": 1,
@@ -562,7 +573,7 @@
               ]
             },
             {
-              "text": "異于瘍療雖然少腹焮腫",
+              "text": "異于癆瘵雖然少腹焮腫",
               "marks": [
                 {
                   "after": 1,
@@ -640,18 +651,7 @@
           "main_language": "lzh"
         }
       ],
-      "issues": [
-        {
-          "side": "left",
-          "column": 4,
-          "context": "異于瘍療",
-          "candidates": [
-            "瘍療",
-            "瘍療"
-          ],
-          "note": "依原筆辨識兩形，上下文亦可供覆核，未據語境改字。"
-        }
-      ],
+      "issues": [],
       "observations": "兩半葉都有墨筆漢文和返點／連字符。"
     },
     {
@@ -669,7 +669,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-case-text",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -720,7 +720,7 @@
               ]
             },
             {
-              "text": "管於是去臍一寸下鍼而",
+              "text": "管於是去臍一寸不鍼而",
               "marks": [
                 {
                   "after": 1,
@@ -848,7 +848,7 @@
               ]
             },
             {
-              "text": "如骨予曽閲西学家所譯",
+              "text": "如骨予曾閲西学家所譯",
               "marks": [
                 {
                   "after": 1,
@@ -1035,33 +1035,23 @@
       "issues": [
         {
           "side": "right",
-          "column": 2,
-          "context": "寸下鍼",
-          "candidates": [
-            "下",
-            "不"
-          ],
-          "note": "該形中豎、右側短畫需覆核。"
-        },
-        {
-          "side": "right",
           "column": 3,
           "context": "率可二□",
           "candidates": [
             "升",
             "杯"
           ],
-          "note": "數量字字形欠明，有異體可能。"
+          "note": "字左似夕、右有貫豎及數短點，未有足夠證據可定用字。"
         },
         {
           "side": "right",
           "column": 4,
-          "context": "測瘡子欄左細字",
+          "context": "測瘡子旁注",
           "candidates": [
             "ソンデ",
             "ゾンデ"
           ],
-          "note": "字貼近返點與合符，目前保留可見的片假名位置及未定。"
+          "note": "筆跡夾在合符與返點旁，正文字序與片假名疑注分層。"
         }
       ],
       "observations": "右半葉「測瘡子」有片假名旁注，正文與旁注分層。"
@@ -1081,7 +1071,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-case-text",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -1242,7 +1232,16 @@
               ]
             }
           ],
-          "main_language": "lzh"
+          "main_language": "lzh",
+          "extras": [
+            {
+              "type": "transposition-sign",
+              "location": "右面第三欄「不」「亦」交換線",
+              "text": "物理欄序不亦；換序候讀亦不。",
+              "column_anchor": 3,
+              "color": "black"
+            }
+          ]
         },
         {
           "side": "left",
@@ -1278,7 +1277,7 @@
               ]
             },
             {
-              "text": "變雖死不敢怨悔於是受",
+              "text": "変雖死不敢怨悔於是受",
               "marks": [
                 {
                   "after": 2,
@@ -1416,28 +1415,7 @@
           "main_language": "lzh"
         }
       ],
-      "issues": [
-        {
-          "side": "right",
-          "column": 3,
-          "context": "予不亦能決",
-          "candidates": [
-            "不亦",
-            "亦不"
-          ],
-          "note": "物理字序為不亦，原筆有乙形交換符。"
-        },
-        {
-          "side": "right",
-          "column": 2,
-          "context": "管野良哲",
-          "candidates": [
-            "管野良哲",
-            "菅野良哲"
-          ],
-          "note": "正文筆畫作管，人物通名另查，勿改正文。"
-        }
-      ],
+      "issues": [],
       "observations": "右半葉記問同藩管野良哲與患者家屬的對話，第三欄有一條換序連線。"
     },
     {
@@ -1455,7 +1433,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-case-text",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -1657,7 +1635,7 @@
               ]
             },
             {
-              "text": "予行診語患者曰是月經",
+              "text": "予行診詰患者曰是月經",
               "marks": [
                 {
                   "after": 4,
@@ -1740,7 +1718,8 @@
           "main_language": "lzh"
         }
       ],
-      "observations": "兩半葉為術後診視記錄。"
+      "observations": "兩半葉為術後診視記錄。",
+      "issues": []
     },
     {
       "image": 7,
@@ -1757,13 +1736,13 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "medical-case-text",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "虫數條奠投殺虫之圓劑",
+              "text": "虫數條兼投殺虫之圓劑",
               "marks": [
                 {
                   "after": 1,
@@ -2064,25 +2043,14 @@
       ],
       "issues": [
         {
-          "side": "right",
-          "column": 1,
-          "context": "虫數條奠投",
-          "candidates": [
-            "奠",
-            "爰",
-            "遂"
-          ],
-          "note": "首選只依字面形狀，須回圖裁定。"
-        },
-        {
           "side": "left",
           "column": 3,
-          "context": "人民之□ 竒病",
+          "context": "人民之□竒病",
           "candidates": [
             "夥",
-            "影"
+            "影形"
           ],
-          "note": "原筆左似果，右有彡狀三撇，可能是夥的別體。"
+          "note": "原筆左半近果、右半有三筆。語意支持夥，保存待核字位。"
         }
       ],
       "observations": "結尾自評個案意義，續到下一幅署年月。"
@@ -2102,7 +2070,7 @@
       "native_width": 5616,
       "native_height": 3744,
       "content_role": "author-date-and-original-diagram",
-      "state": "initial-read",
+      "state": "image-adjudicated",
       "sides": [
         {
           "side": "right",
@@ -2148,7 +2116,7 @@
               ]
             },
             {
-              "text": "爾"
+              "text": "□"
             },
             {
               "text": "安政甲寅中冬"
@@ -2231,7 +2199,19 @@
           ]
         }
       ],
-      "observations": "右半葉為文末與署名，左半葉為原手繪圖，下一圖右半葉為此圖葉背。"
+      "observations": "右半葉為文末與署名，左半葉為原手繪圖，下一圖右半葉為此圖葉背。",
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "云□",
+          "candidates": [
+            "甬形",
+            "爾"
+          ],
+          "note": "原筆近甬，文意候爾，字形未定。"
+        }
+      ]
     },
     {
       "image": 9,

@@ -1,0 +1,398 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 11,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "kind": "shelf-note",
+      "op": "update-reading",
+      "before": "□□□",
+      "after": "六の四",
+      "reason": "封面繫線旁原筆三形可見六、の、四，仍保留候讀標示以待館藏印記專項覆核。",
+      "source_bbox": [
+        3695,
+        2432,
+        3822,
+        2618
+      ],
+      "source_image_sha256": "a067f7f978339d2a3f7ec17c08f58d0fddd2361043ef26e81d435a15a53cfacf",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p1"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": null,
+      "kind": "library-seal",
+      "op": "update-reading",
+      "before": "日本京都帝國大學圖書之印",
+      "after": "京都帝國大學圖書之印",
+      "reason": "方印右欄局部放大為京、都，沒有初錄另加的日本。兩欄分列帝國大學、圖書之印。篆文候讀保留原圖位置。",
+      "source_bbox": [
+        2095,
+        416,
+        2727,
+        1045
+      ],
+      "source_image_sha256": "69137335ca3342e02c81bd83cfff0cd7090f9c0e78ee1ad6f3bb60a7c9d117c4",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p2"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "脉",
+      "after": "脈",
+      "reason": "右旁末筆分開，上有短斜而無永字的獨立點。保留底本的脈字。",
+      "source_bbox": [
+        2199,
+        1882,
+        2494,
+        2064
+      ],
+      "offset": [
+        6,
+        7
+      ],
+      "source_image_sha256": "3f789d70ce0203a04b90209de1f214fdb30edb18c01c045f96350a237f7004ea",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p3"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "瘍療",
+      "after": "癆瘵",
+      "reason": "第一字疒內下方可見力的斜筆與鉤，第二字內部可讀祭，覆核後採癆瘵。",
+      "source_bbox": [
+        1603,
+        1157,
+        1822,
+        1623
+      ],
+      "offset": [
+        2,
+        4
+      ],
+      "source_image_sha256": "3f789d70ce0203a04b90209de1f214fdb30edb18c01c045f96350a237f7004ea",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p3"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "下",
+      "after": "不",
+      "reason": "一寸後首橫下可見左撇、豎畫和右點，並有レ形返點。依底本作不。",
+      "source_bbox": [
+        3819,
+        1966,
+        4044,
+        2199
+      ],
+      "offset": [
+        7,
+        8
+      ],
+      "source_image_sha256": "9df90626b2bb44dd5871be8ae42f6511aed48d989a9f00952b9a1c6080e980b1",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "曽",
+      "after": "曾",
+      "reason": "中腹框內有分筆，下面另為日。依所見曾字。",
+      "source_bbox": [
+        3117,
+        1067,
+        3361,
+        1278
+      ],
+      "offset": [
+        3,
+        4
+      ],
+      "source_image_sha256": "9df90626b2bb44dd5871be8ae42f6511aed48d989a9f00952b9a1c6080e980b1",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "變",
+      "after": "変",
+      "reason": "上方是亦形，腳部可見交筆，未見傳統變字的䜌。照稿保留変。",
+      "source_bbox": [
+        2112,
+        823,
+        2272,
+        997
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "source_image_sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "kind": "reading-order",
+      "op": "separate-original-sign",
+      "before": "不亦（候讀另記）",
+      "after": "不亦（換序符另層標示）",
+      "reason": "依同一連線視讀，正文字序仍保留物理欄序。",
+      "source_bbox": [
+        3608,
+        1812,
+        3824,
+        2205
+      ],
+      "offset": [
+        6,
+        8
+      ],
+      "source_image_sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "語",
+      "after": "詰",
+      "reason": "言旁右作吉，另見明確上下橫和口；採詰。",
+      "source_bbox": [
+        1808,
+        1365,
+        2061,
+        1539
+      ],
+      "offset": [
+        3,
+        4
+      ],
+      "source_image_sha256": "869b44c31bf37815024221a862083f4cad91b5a3e62be9c87d548e6e33d4110f",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p6"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "奠",
+      "after": "兼",
+      "reason": "局部放大可見上部雙點、中部並畫及下左撇，原字為兼。",
+      "source_bbox": [
+        4088,
+        1295,
+        4319,
+        1514
+      ],
+      "offset": [
+        3,
+        4
+      ],
+      "source_image_sha256": "c68b2d918f6027d7cb309aade968b309a44eb460fff43d21a1a193bd58f91106",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p7"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "爾",
+      "after": "□",
+      "reason": "原筆顯示甬形，與本文末尾可能使用的爾字尚無足夠證據等同，保留疑讀。",
+      "source_bbox": [
+        3841,
+        789,
+        4038,
+        986
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "source_image_sha256": "b9c73d6bb75ddd69875eb76818f60d9ab541c17dfb251c84db9ce556e0b68c75",
+      "canvas": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p1",
+      "status": "字形待核"
+    },
+    {
+      "image": 2,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p2",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4",
+      "status": "字形待核"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4",
+      "status": "字形待核"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p7",
+      "status": "字形待核"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 4,
+      "side": "right",
+      "column": 4,
+      "source_image_sha256": "9df90626b2bb44dd5871be8ae42f6511aed48d989a9f00952b9a1c6080e980b1",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4",
+      "source_bbox": [
+        3350,
+        1281,
+        3563,
+        1553
+      ],
+      "status": "依原圖留讀",
+      "reading": "測瘡子",
+      "reason": "可見疒包圍右邊的倉形部件，原筆細注另列，依底本留讀。"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": 5,
+      "source_image_sha256": "9df90626b2bb44dd5871be8ae42f6511aed48d989a9f00952b9a1c6080e980b1",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4",
+      "source_bbox": [
+        3108,
+        1461,
+        3353,
+        2025
+      ],
+      "status": "依原圖留讀",
+      "reading": "西学家",
+      "reason": "字上部為小筆畫，採此處原寫学。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5",
+      "source_bbox": [
+        4119,
+        1938,
+        4336,
+        2550
+      ],
+      "status": "依原圖留讀",
+      "reading": "管野良",
+      "reason": "名號跨欄；管上竹筆可見，仍錄管而不以通名校改。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 3,
+      "source_image_sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5",
+      "source_bbox": [
+        3622,
+        1682,
+        3819,
+        2525
+      ],
+      "status": "依原圖留讀",
+      "reading": "予不亦能決",
+      "reason": "依物理欄序不在亦上，兩字有交換記，上下次序另層說明。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5",
+      "source_bbox": [
+        1412,
+        837,
+        1589,
+        1267
+      ],
+      "status": "依原圖留讀",
+      "reading": "々出之",
+      "reason": "疊寫符接續前欄末徐，依原筆保存。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 4,
+      "source_image_sha256": "b9c73d6bb75ddd69875eb76818f60d9ab541c17dfb251c84db9ce556e0b68c75",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8",
+      "source_bbox": [
+        3384,
+        955,
+        3566,
+        1657
+      ],
+      "status": "依原圖留讀",
+      "reading": "相馬医生",
+      "reason": "医字中作矢，保留底本原寫。"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "source_image_sha256": "b9c73d6bb75ddd69875eb76818f60d9ab541c17dfb251c84db9ce556e0b68c75",
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8",
+      "source_bbox": [
+        1572,
+        702,
+        2530,
+        1814
+      ],
+      "status": "依原圖留讀",
+      "reading": "截斷之疵露兒胎圖／截疵四寸",
+      "reason": "題及圖內標籤二處疒內均作此，互校保留疵。"
+    }
+  ]
+}

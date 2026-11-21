@@ -4,11 +4,11 @@
 
 Dated 1854, Kyūgai ninshin chiken is a Literary Chinese case record by Sōma physician 鎌田昌琢. It documents a patient's illness, a consultation between physicians, the family's stated wishes, and follow-up care, with a hand-drawn figure at the end. The transcription follows Kyoto University Library’s Fujikawa Collection manuscript, shelfmark キ/58, and supports research on obstetric history and the documentation of clinical decisions in late Edo-period Japan.
 
-## V0.1.0
+## V0.2.0
 
-從封題到署記及圖的8幅館方影像，附記第9幅的物理篇界；提供逐欄TXT、JSON和TEI XML，並標示附圖、圖題、圖字的原圖區域。AI輔助轉錄，附疑字及原圖定位，未經專家或人類全文雙校。
+從封題到署記及圖的8幅館方影像，附記第9幅的物理篇界；提供逐欄TXT、JSON和TEI XML，並標示附圖、圖題、圖字的原圖區域。比對獨立原圖讀法後回圖裁定，採用 11 筆訂正，留存疑讀定位。
 
-Includes the eight scans of the titled work and the boundary on scan nine. Text, JSON and TEI XML provide column-level locations, and the figure, title and label are tied to regions on the source image. AI-assisted transcription with doubtful readings and image references. No specialist or full human collation was performed.
+Includes the eight scans of the titled work and the boundary on scan nine. Text, JSON and TEI XML provide column-level locations, and the figure, title and label are tied to regions on the source image. An independent image reading was compared with the first transcription. Source-image adjudication adopted 11 changes and retained unresolved readings.
 
 ## 資料與原件 / Data and source
 

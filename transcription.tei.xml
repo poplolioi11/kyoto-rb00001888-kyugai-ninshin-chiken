@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -107,15 +107,15 @@
             </ab>
             <ab type="page-feature" subtype="shelf-note">
               <label>封面右下墨書</label>
-              <seg type="diplomatic-text" rend="black">□□□</seg>
+              <seg type="diplomatic-text" rend="black">六の四</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">封面為小幅題名件，下方及左側稍露同裝冊其他稿紙；只記本篇封面層。</ab>
             <ab type="transcription-issue" n="single:None">
-              <quote>封面右下墨書</quote>
-              <seg type="candidate">キノ五八</seg>
-              <note type="editorial">前兩筆接於封面近裝線位置，末字疑八；以□保留，與印刷館籤分開。</note>
+              <quote>六の四</quote>
+              <seg type="candidate">六の四</seg>
+              <note type="editorial">封面下緣墨書，依現形候讀，意義待核。</note>
             </ab>
           </div>
         </div>
@@ -167,7 +167,7 @@
             </ab>
             <ab type="page-feature" subtype="library-seal">
               <label>左半葉右上方朱色方篆</label>
-              <seg type="diplomatic-text" rend="red">日本京都帝國大學圖書之印</seg>
+              <seg type="diplomatic-text" rend="red">京都帝國大學圖書之印</seg>
             </ab>
             <ab type="page-feature" subtype="donation-seal">
               <label>左半葉欄外右側長方朱印</label>
@@ -176,6 +176,11 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右半葉為封面之背，所見題字為透墨。左半葉起連續墨筆漢文，章與正文分層。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>京都帝國大學圖書之印</quote>
+              <seg type="candidate">京都帝國大學圖書之印</seg>
+              <note type="editorial">方篆印右欄兩字，仍待印譜驗證釋文。</note>
+            </ab>
           </div>
         </div>
         <pb n="3" facs="#f03" />
@@ -227,7 +232,7 @@
           </div>
           <div type="page-face" n="left" xml:lang="lzh">
             <ab type="column" n="1" xml:id="f03-l-c01">
-              <seg type="diplomatic-text">証因請予治診脉沈而細</seg>
+              <seg type="diplomatic-text">証因請予治診脈沈而細</seg>
               <note type="original-mark" n="1" rend="black">㆒</note>
               <note type="original-mark" n="3" rend="black">㆓</note>
               <note type="original-mark" n="5" rend="black">㆒</note>
@@ -251,7 +256,7 @@
               <note type="original-mark" n="10" rend="black">㆑</note>
             </ab>
             <ab type="column" n="4" xml:id="f03-l-c04">
-              <seg type="diplomatic-text">異于瘍療雖然少腹焮腫</seg>
+              <seg type="diplomatic-text">異于癆瘵雖然少腹焮腫</seg>
               <note type="original-mark" n="1" rend="black">㆓</note>
               <note type="original-mark" n="3" rend="black">│</note>
               <note type="original-mark" n="4" rend="black">㆒</note>
@@ -272,12 +277,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">兩半葉都有墨筆漢文和返點／連字符。</ab>
-            <ab type="transcription-issue" n="left:4">
-              <quote>異于瘍療</quote>
-              <seg type="candidate">瘍療</seg>
-              <seg type="candidate">瘍療</seg>
-              <note type="editorial">依原筆辨識兩形，上下文亦可供覆核，未據語境改字。</note>
-            </ab>
           </div>
         </div>
         <pb n="4" facs="#f04" />
@@ -295,7 +294,7 @@
               <note type="original-mark" n="10" rend="black">│</note>
             </ab>
             <ab type="column" n="2" xml:id="f04-r-c02">
-              <seg type="diplomatic-text">管於是去臍一寸下鍼而</seg>
+              <seg type="diplomatic-text">管於是去臍一寸不鍼而</seg>
               <note type="original-mark" n="1" rend="black">㆒</note>
               <note type="original-mark" n="2" rend="black">㆑</note>
               <note type="original-mark" n="4" rend="black">㆑</note>
@@ -330,7 +329,7 @@
               </note>
             </ab>
             <ab type="column" n="5" xml:id="f04-r-c05">
-              <seg type="diplomatic-text">如骨予曽閲西学家所譯</seg>
+              <seg type="diplomatic-text">如骨予曾閲西学家所譯</seg>
               <note type="original-mark" n="1" rend="black">㆑</note>
               <note type="original-mark" n="4" rend="black">㆓</note>
               <note type="original-mark" n="5" rend="black">│</note>
@@ -381,23 +380,17 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右半葉「測瘡子」有片假名旁注，正文與旁注分層。</ab>
-            <ab type="transcription-issue" n="right:2">
-              <quote>寸下鍼</quote>
-              <seg type="candidate">下</seg>
-              <seg type="candidate">不</seg>
-              <note type="editorial">該形中豎、右側短畫需覆核。</note>
-            </ab>
             <ab type="transcription-issue" n="right:3">
               <quote>率可二□</quote>
               <seg type="candidate">升</seg>
               <seg type="candidate">杯</seg>
-              <note type="editorial">數量字字形欠明，有異體可能。</note>
+              <note type="editorial">字左似夕、右有貫豎及數短點，未有足夠證據可定用字。</note>
             </ab>
             <ab type="transcription-issue" n="right:4">
-              <quote>測瘡子欄左細字</quote>
+              <quote>測瘡子旁注</quote>
               <seg type="candidate">ソンデ</seg>
               <seg type="candidate">ゾンデ</seg>
-              <note type="editorial">字貼近返點與合符，目前保留可見的片假名位置及未定。</note>
+              <note type="editorial">筆跡夾在合符與返點旁，正文字序與片假名疑注分層。</note>
             </ab>
           </div>
         </div>
@@ -445,6 +438,10 @@
               <note type="original-mark" n="8" rend="black">㆒</note>
               <note type="original-mark" n="10" rend="black">㆓</note>
             </ab>
+            <ab type="page-feature" subtype="transposition-sign" corresp="#f05-r-c03">
+              <label>右面第三欄「不」「亦」交換線</label>
+              <seg type="diplomatic-text" rend="black">物理欄序不亦；換序候讀亦不。</seg>
+            </ab>
           </div>
           <div type="page-face" n="left" xml:lang="lzh">
             <ab type="column" n="1" xml:id="f05-l-c01">
@@ -456,7 +453,7 @@
               <note type="original-mark" n="10" rend="black">㆑</note>
             </ab>
             <ab type="column" n="2" xml:id="f05-l-c02">
-              <seg type="diplomatic-text">變雖死不敢怨悔於是受</seg>
+              <seg type="diplomatic-text">変雖死不敢怨悔於是受</seg>
               <note type="original-mark" n="2" rend="black">㆑</note>
               <note type="original-mark" n="4" rend="black">㆓</note>
               <note type="original-mark" n="7" rend="black">㆒</note>
@@ -493,18 +490,6 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右半葉記問同藩管野良哲與患者家屬的對話，第三欄有一條換序連線。</ab>
-            <ab type="transcription-issue" n="right:3">
-              <quote>予不亦能決</quote>
-              <seg type="candidate">不亦</seg>
-              <seg type="candidate">亦不</seg>
-              <note type="editorial">物理字序為不亦，原筆有乙形交換符。</note>
-            </ab>
-            <ab type="transcription-issue" n="right:2">
-              <quote>管野良哲</quote>
-              <seg type="candidate">管野良哲</seg>
-              <seg type="candidate">菅野良哲</seg>
-              <note type="editorial">正文筆畫作管，人物通名另查，勿改正文。</note>
-            </ab>
           </div>
         </div>
         <pb n="6" facs="#f06" />
@@ -565,7 +550,7 @@
               <note type="original-mark" n="10" rend="black">㆑</note>
             </ab>
             <ab type="column" n="3" xml:id="f06-l-c03">
-              <seg type="diplomatic-text">予行診語患者曰是月經</seg>
+              <seg type="diplomatic-text">予行診詰患者曰是月經</seg>
               <note type="original-mark" n="4" rend="black">㆓</note>
               <note type="original-mark" n="5" rend="black">│</note>
               <note type="original-mark" n="6" rend="black">㆒</note>
@@ -595,7 +580,7 @@
         <div n="7" type="scan" subtype="medical-case-text">
           <div type="page-face" n="right" xml:lang="lzh">
             <ab type="column" n="1" xml:id="f07-r-c01">
-              <seg type="diplomatic-text">虫數條奠投殺虫之圓劑</seg>
+              <seg type="diplomatic-text">虫數條兼投殺虫之圓劑</seg>
               <note type="original-mark" n="1" rend="black">㆒</note>
               <note type="original-mark" n="2" rend="black">│</note>
               <note type="original-mark" n="5" rend="black">㆓</note>
@@ -677,18 +662,11 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">結尾自評個案意義，續到下一幅署年月。</ab>
-            <ab type="transcription-issue" n="right:1">
-              <quote>虫數條奠投</quote>
-              <seg type="candidate">奠</seg>
-              <seg type="candidate">爰</seg>
-              <seg type="candidate">遂</seg>
-              <note type="editorial">首選只依字面形狀，須回圖裁定。</note>
-            </ab>
             <ab type="transcription-issue" n="left:3">
-              <quote>人民之□ 竒病</quote>
+              <quote>人民之□竒病</quote>
               <seg type="candidate">夥</seg>
-              <seg type="candidate">影</seg>
-              <note type="editorial">原筆左似果，右有彡狀三撇，可能是夥的別體。</note>
+              <seg type="candidate">影形</seg>
+              <note type="editorial">原筆左半近果、右半有三筆。語意支持夥，保存待核字位。</note>
             </ab>
           </div>
         </div>
@@ -706,7 +684,7 @@
               <note type="original-mark" n="9" rend="black">㆒</note>
             </ab>
             <ab type="column" n="2" xml:id="f08-r-c02">
-              <seg type="diplomatic-text">爾</seg>
+              <seg type="diplomatic-text">□</seg>
             </ab>
             <ab type="column" n="3" xml:id="f08-r-c03">
               <seg type="diplomatic-text">安政甲寅中冬</seg>
@@ -738,6 +716,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右半葉為文末與署名，左半葉為原手繪圖，下一圖右半葉為此圖葉背。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>云□</quote>
+              <seg type="candidate">甬形</seg>
+              <seg type="candidate">爾</seg>
+              <note type="editorial">原筆近甬，文意候爾，字形未定。</note>
+            </ab>
           </div>
         </div>
         <pb n="9" facs="#f09" />
