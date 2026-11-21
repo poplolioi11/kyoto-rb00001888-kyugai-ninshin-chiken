@@ -1,0 +1,112 @@
+{
+  "historical_author": "鎌田昌琢",
+  "source_identity": "京都大學附屬圖書館富士川文庫 キ/58（RB00001888，登錄 184278）",
+  "source": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001888",
+  "iiif_manifest": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001888/manifest.json",
+  "source_rights_policy": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+  "dataset_version": "0.1.0",
+  "scan_count": 9,
+  "content_scan_count": 8,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p1",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "sha256": "a067f7f978339d2a3f7ec17c08f58d0fddd2361043ef26e81d435a15a53cfacf",
+      "content_role": "titled-cover"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p2",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "sha256": "69137335ca3342e02c81bd83cfff0cd7090f9c0e78ee1ad6f3bb60a7c9d117c4",
+      "content_role": "medical-case-text"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p3",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "sha256": "3f789d70ce0203a04b90209de1f214fdb30edb18c01c045f96350a237f7004ea",
+      "content_role": "medical-case-text"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "sha256": "9df90626b2bb44dd5871be8ae42f6511aed48d989a9f00952b9a1c6080e980b1",
+      "content_role": "medical-case-text"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "content_role": "medical-case-text"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p6",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "sha256": "869b44c31bf37815024221a862083f4cad91b5a3e62be9c87d548e6e33d4110f",
+      "content_role": "medical-case-text"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p7",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "sha256": "c68b2d918f6027d7cb309aade968b309a44eb460fff43d21a1a193bd58f91106",
+      "content_role": "medical-case-text"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "sha256": "b9c73d6bb75ddd69875eb76818f60d9ab541c17dfb251c84db9ce556e0b68c75",
+      "content_role": "author-date-and-original-diagram"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p9",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "sha256": "340d7d593a3e243afdb6e3b24381a6020d44d39cb02d077dc32104913adf83c4",
+      "content_role": "out-of-scope-attached-works"
+    }
+  ]
+}

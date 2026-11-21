@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>宮外妊娠治驗</title>
+        <title type="alternate">Kyūgai ninshin chiken</title>
+        <author>鎌田昌琢</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>京都</settlement>
+            <repository>京都大學附屬圖書館</repository>
+            <collection>富士川文庫</collection>
+            <idno>キ/58</idno>
+            <altIdentifier>
+              <idno>RB00001888</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>相馬醫者鎌田昌琢於安政甲寅年（1854）署記的漢文病例，敘及一次宮外妊娠的診視、家屬與同藩醫者會商、處置及後續照護。篇末有一幅手繪腹部示意圖。附錄圖字置於圖像層。館方掃描第1至8幅構成本篇，第9幅指示物理篇界。整條館藏另含同裝文稿。</p>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/item/rb00001888">館方書目</ref>
+              <ref target="https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001888/manifest.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>安政甲寅（1854）署記，抄寫年代未詳。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>每一幅照相有館方 IIIF canvas 和影像連結。古籍漢文字詞按原書欄序讀出，源注、合符、返點和館藏印識與正文分層；字位未定以□標示。圖題及標籤以圖像區域定位，圖像座標採館方 IIIF canvas 的尺寸。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p1" xml:id="f01">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00001_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p2" xml:id="f02">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00002_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p3" xml:id="f03">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00003_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4" xml:id="f04">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00004_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5" xml:id="f05">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00005_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p6" xml:id="f06">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00006_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p7" xml:id="f07">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00007_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8" xml:id="f08">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00008_0.ptif/full/2000,/0/default.jpg" />
+      <zone type="manuscript-drawing" ulx="1379" uly="1059" lrx="2297" lry="2396" xml:id="f08-figure" />
+      <zone type="figure-title" ulx="2342" uly="705" lrx="2544" lry="1716" xml:id="f08-figure-title" />
+      <zone type="figure-label" ulx="1595" uly="1520" lrx="1724" lry="1820" xml:id="f08-figure-caption" />
+    </surface>
+    <surface n="9" corresp="https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p9" xml:id="f09">
+      <graphic url="https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00009_0.ptif/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="titled-cover">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="cover-title">
+              <label>封面左側</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="lzh">宮外妊娠治驗</seg>
+            </ab>
+            <ab type="page-feature" subtype="binding-label">
+              <label>題名下方</label>
+              <seg type="diplomatic-text" rend="black">全</seg>
+            </ab>
+            <ab type="page-feature" subtype="shelf-label">
+              <label>封面右上藍框籤</label>
+              <seg type="diplomatic-text" rend="blue" xml:lang="ja">富士川本
+キ
+58</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal">
+              <label>封面中央偏右長方朱印</label>
+              <seg type="diplomatic-text" rend="red">富士川氏藏</seg>
+            </ab>
+            <ab type="page-feature" subtype="shelf-note">
+              <label>封面右下墨書</label>
+              <seg type="diplomatic-text" rend="black">□□□</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">封面為小幅題名件，下方及左側稍露同裝冊其他稿紙；只記本篇封面層。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>封面右下墨書</quote>
+              <seg type="candidate">キノ五八</seg>
+              <note type="editorial">前兩筆接於封面近裝線位置，末字疑八；以□保留，與印刷館籤分開。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="medical-case-text">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">宮外妊娠之治驗</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">東奧相馬宇田郡立谷邑</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">草野某者妻歳三十九從</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆓</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">甲寅春三月絶經水覺腹</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆒</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">中有塊焉病如惡阻者凡</seg>
+              <note type="original-mark" n="2" rend="black">㆑</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+            </ab>
+            <ab type="page-feature" subtype="accession-seal">
+              <label>左半葉上方黑色橢圓章</label>
+              <seg type="diplomatic-text" rend="black">184278
+大正 7. 3. 31</seg>
+            </ab>
+            <ab type="page-feature" subtype="library-seal">
+              <label>左半葉右上方朱色方篆</label>
+              <seg type="diplomatic-text" rend="red">日本京都帝國大學圖書之印</seg>
+            </ab>
+            <ab type="page-feature" subtype="donation-seal">
+              <label>左半葉欄外右側長方朱印</label>
+              <seg type="diplomatic-text" rend="red">富士川游寄贈</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右半葉為封面之背，所見題字為透墨。左半葉起連續墨筆漢文，章與正文分層。</ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="medical-case-text">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f03-r-c01">
+              <seg type="diplomatic-text">二月而愈不異于平常一</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆑</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="9" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02">
+              <seg type="diplomatic-text">月又少腹痛得食則嘔吐</seg>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03">
+              <seg type="diplomatic-text">一日吐蛔二三條醫雖施</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">㆑</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">㆑</note>
+              <note type="original-mark" n="10" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04">
+              <seg type="diplomatic-text">治無寸功自仲夏至季秋</seg>
+              <note type="original-mark" n="2" rend="black">㆓</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">㆒</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="8" rend="black">㆓</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05">
+              <seg type="diplomatic-text">其塊物依然如舊且發餘</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">証因請予治診脉沈而細</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="3" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">數四肢微冷身體削瘦往</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">來寒熱咳嗽吐粘痰殆不</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">異于瘍療雖然少腹焮腫</seg>
+              <note type="original-mark" n="1" rend="black">㆓</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">㆒</note>
+              <note type="original-mark" n="5" rend="black">㆑</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">臍房突起痛楚如以鍼錐</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆘</note>
+              <note type="original-mark" n="8" rend="black">㆓</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆒</note>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">兩半葉都有墨筆漢文和返點／連字符。</ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>異于瘍療</quote>
+              <seg type="candidate">瘍療</seg>
+              <seg type="candidate">瘍療</seg>
+              <note type="editorial">依原筆辨識兩形，上下文亦可供覆核，未據語境改字。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="medical-case-text">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">刺以指頭按其腹則催膿</seg>
+              <note type="original-mark" n="1" rend="black">㆖</note>
+              <note type="original-mark" n="2" rend="black">㆓</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">㆒</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">管於是去臍一寸下鍼而</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="2" rend="black">㆑</note>
+              <note type="original-mark" n="4" rend="black">㆑</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">出膿汁率可二□後從鍼</seg>
+              <note type="original-mark" n="1" rend="black">㆓</note>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">㆒</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">口用測瘡子探試之應手</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="2" rend="black">㆓</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆒</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">㆑</note>
+              <note type="source-note" n="5">
+                <seg type="note-line" n="1">
+                  <seg type="diplomatic-text">□ン□</seg>
+                </seg>
+              </note>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">如骨予曽閲西学家所譯</seg>
+              <note type="original-mark" n="1" rend="black">㆑</note>
+              <note type="original-mark" n="4" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">之書有宮外結胎之説因</seg>
+              <note type="original-mark" n="2" rend="black">㆒</note>
+              <note type="original-mark" n="3" rend="black">㆓</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">思為腹中無有骨之理是</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="6" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">則胞外之妊娠也非施截</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">斷之術不可治雖然瘍狀</seg>
+              <note type="original-mark" n="3" rend="black">㆒</note>
+              <note type="original-mark" n="4" rend="black">㆑</note>
+              <note type="original-mark" n="5" rend="black">㆑</note>
+              <note type="original-mark" n="7" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">亦甚時々發血暈雖施術</seg>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">㆑</note>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右半葉「測瘡子」有片假名旁注，正文與旁注分層。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>寸下鍼</quote>
+              <seg type="candidate">下</seg>
+              <seg type="candidate">不</seg>
+              <note type="editorial">該形中豎、右側短畫需覆核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>率可二□</quote>
+              <seg type="candidate">升</seg>
+              <seg type="candidate">杯</seg>
+              <note type="editorial">數量字字形欠明，有異體可能。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>測瘡子欄左細字</quote>
+              <seg type="candidate">ソンデ</seg>
+              <seg type="candidate">ゾンデ</seg>
+              <note type="editorial">字貼近返點與合符，目前保留可見的片假名位置及未定。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="medical-case-text">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">難決可治否同藩管野良</seg>
+              <note type="original-mark" n="1" rend="black">㆑</note>
+              <note type="original-mark" n="2" rend="black">㆓</note>
+              <note type="original-mark" n="3" rend="black">㆑</note>
+              <note type="original-mark" n="5" rend="black">㆒</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">哲先生者精于經驗之学</seg>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">質諸先生曰予不亦能決</seg>
+              <note type="original-mark" n="1" rend="black">㆓</note>
+              <note type="original-mark" n="4" rend="black">㆒</note>
+              <note type="original-mark" n="7" rend="black">㆑</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">然不施術待命期非医之</seg>
+              <note type="original-mark" n="2" rend="black">㆑</note>
+              <note type="original-mark" n="3" rend="black">㆑</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="8" rend="black">㆓</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">道也其家族服此言曰自</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">㆓</note>
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">其坐而待死盡治術而有</seg>
+              <note type="original-mark" n="4" rend="black">㆑</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">變雖死不敢怨悔於是受</seg>
+              <note type="original-mark" n="2" rend="black">㆑</note>
+              <note type="original-mark" n="4" rend="black">㆓</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">胎六箇月而縱截臍傍四</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">寸用鑷子緊夾其兒胎徐</seg>
+              <note type="original-mark" n="2" rend="black">㆓</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">㆒</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">々出之其形質無異于常</seg>
+              <note type="original-mark" n="2" rend="black">㆑</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆑</note>
+              <note type="original-mark" n="8" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右半葉記問同藩管野良哲與患者家屬的對話，第三欄有一條換序連線。</ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>予不亦能決</quote>
+              <seg type="candidate">不亦</seg>
+              <seg type="candidate">亦不</seg>
+              <note type="editorial">物理字序為不亦，原筆有乙形交換符。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>管野良哲</quote>
+              <seg type="candidate">管野良哲</seg>
+              <seg type="candidate">菅野良哲</seg>
+              <note type="editorial">正文筆畫作管，人物通名另查，勿改正文。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="medical-case-text">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">胎大七八寸乃施瘡瘍之</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆓</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">治法與十全大補湯八九</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="2" rend="black">㆒</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">貼而前諸症大半退矣只</seg>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">少腹痛創口不全收而已</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="8" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">亦一日出血創口許多病</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">㆓</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">㆒</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">婦以為血下如此決不可</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">㆑</note>
+              <note type="original-mark" n="10" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">起恐悸發暈家人驚来呼</seg>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="4" rend="black">㆑</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">予行診語患者曰是月經</seg>
+              <note type="original-mark" n="4" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">未能歸于胞中也何足恐</seg>
+              <note type="original-mark" n="1" rend="black">㆑</note>
+              <note type="original-mark" n="2" rend="black">㆑</note>
+              <note type="original-mark" n="3" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">乎後愈必矣亦創口出蛔</seg>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">兩半葉為術後診視記錄。</ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="medical-case-text">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">虫數條奠投殺虫之圓劑</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="2" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆓</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">始終與前劑截斷經六十</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">㆓</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">㆒</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆓</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">余日而獲全愈此症妊娠</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="2" rend="black">㆒</note>
+              <note type="original-mark" n="4" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆒</note>
+              <note type="original-mark" n="9" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">中之竒怪者也西洋人雖</seg>
+              <note type="original-mark" n="3" rend="black">│</note>
+              <note type="original-mark" n="7" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="10" rend="black">㆔</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">始發此説未聞有截斷之</seg>
+              <note type="original-mark" n="2" rend="black">㆓</note>
+              <note type="original-mark" n="4" rend="black">㆒</note>
+              <note type="original-mark" n="5" rend="black">㆑</note>
+              <note type="original-mark" n="6" rend="black">㆑</note>
+              <note type="original-mark" n="7" rend="black">㆔</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+            </ab>
+          </div>
+          <div type="page-face" n="left" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">術予今雖截斷而奏功亦</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="4" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">偶中而已何足以語人然</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">㆓</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">天下之廣人民之□竒病</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">怪証當許多又安知無患</seg>
+              <note type="original-mark" n="1" rend="black">│</note>
+              <note type="original-mark" n="3" rend="black">㆓</note>
+              <note type="original-mark" n="5" rend="black">㆒</note>
+              <note type="original-mark" n="8" rend="black">㆑</note>
+              <note type="original-mark" n="9" rend="black">㆘</note>
+              <note type="original-mark" n="10" rend="black">㆓</note>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">此証者乎因詳記以告同</seg>
+              <note type="original-mark" n="3" rend="black">㆖</note>
+              <note type="original-mark" n="9" rend="black">㆓</note>
+              <note type="original-mark" n="10" rend="black">│</note>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">結尾自評個案意義，續到下一幅署年月。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>虫數條奠投</quote>
+              <seg type="candidate">奠</seg>
+              <seg type="candidate">爰</seg>
+              <seg type="candidate">遂</seg>
+              <note type="editorial">首選只依字面形狀，須回圖裁定。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>人民之□ 竒病</quote>
+              <seg type="candidate">夥</seg>
+              <seg type="candidate">影</seg>
+              <note type="editorial">原筆左似果，右有彡狀三撇，可能是夥的別體。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="author-date-and-original-diagram">
+          <div type="page-face" n="right" xml:lang="lzh">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">志且待諸君子之高評云</seg>
+              <note type="original-mark" n="1" rend="black">㆒</note>
+              <note type="original-mark" n="3" rend="black">㆓</note>
+              <note type="original-mark" n="4" rend="black">│</note>
+              <note type="original-mark" n="5" rend="black">│</note>
+              <note type="original-mark" n="6" rend="black">│</note>
+              <note type="original-mark" n="8" rend="black">│</note>
+              <note type="original-mark" n="9" rend="black">㆒</note>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">爾</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">安政甲寅中冬</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">相馬医生</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">鎌田昌琢記</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="page-feature" subtype="figure-title" facs="#f08-figure-title">
+              <label>左半葉圖右側題記</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="lzh">截斷之疵露兒胎圖</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-caption" facs="#f08-figure-caption">
+              <label>左半葉圖內標線旁墨筆</label>
+              <seg type="diplomatic-text" rend="black" xml:lang="lzh">截疵四寸</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-description" facs="#f08-figure">
+              <label>左半葉中部線描示意</label>
+              <seg type="diplomatic-text" rend="black">墨線繪人身腹部，黑色陰影與括線連到圖內墨筆標記。</seg>
+            </ab>
+            <ab type="page-feature" subtype="figure-reading-marks" facs="#f08-figure-title">
+              <label>圖題墨筆合符與返點逐字位置</label>
+              <seg type="diplomatic-text" rend="black">│@1、㆓@5、㆒@7</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右半葉為文末與署名，左半葉為原手繪圖，下一圖右半葉為此圖葉背。</ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="out-of-scope-attached-works">
+          <ab type="status">右半葉為前圖背，左半葉起另紙合裝文稿。此幅標示前後篇界。</ab>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

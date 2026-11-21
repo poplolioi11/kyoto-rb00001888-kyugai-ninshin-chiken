@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '宮外妊娠治驗（1854 年署記，京都大學 キ/58） / Kyūgai ninshin chiken [Case record of an extrauterine
+  pregnancy]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/kyoto-rb00001888-kyugai-ninshin-chiken
+keywords:
+- 宮外妊娠治驗
+- 鎌田昌琢
+- 相馬
+- 江戶醫學史
+- 產科史
+- 病案
+- 臨床照護
+- Kyūgai ninshin chiken
+- Sōma
+- Edo-period medicine
+- history of obstetrics
+- extrauterine pregnancy
+- medical case records
+- Kyoto University Fujikawa Collection
+- Literary Chinese
+- TEI

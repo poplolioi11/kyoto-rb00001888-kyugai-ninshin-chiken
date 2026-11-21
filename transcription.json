@@ -1,0 +1,2254 @@
+{
+  "metadata": {
+    "title": "宮外妊娠治驗",
+    "roman_title": "Kyūgai ninshin chiken",
+    "author": "鎌田昌琢",
+    "date": "安政甲寅（1854）署記，抄寫年代未詳。",
+    "location": "京都",
+    "repository": "京都大學附屬圖書館",
+    "collection": "富士川文庫",
+    "shelfmark": "キ/58",
+    "language": "lzh",
+    "catalogue": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00001888",
+    "rights": "https://rmda.kulib.kyoto-u.ac.jp/reuse",
+    "description": "相馬醫者鎌田昌琢於安政甲寅年（1854）署記的漢文病例，敘及一次宮外妊娠的診視、家屬與同藩醫者會商、處置及後續照護。篇末有一幅手繪腹部示意圖。附錄圖字置於圖像層。館方掃描第1至8幅構成本篇，第9幅指示物理篇界。整條館藏另含同裝文稿。",
+    "txt_reader_statement": "右半葉先、左半葉後，各面自右向左逐欄。方框 □ 表示待定字。原筆讀點按該欄字位另列，│ 是連字符，㆑、㆒、㆓、㆔、㆖、㆘表示可辨返點。讀點與淡墨待續校。圖題及圖內墨字另列。",
+    "tei_editorial_statement": "每一幅照相有館方 IIIF canvas 和影像連結。古籍漢文字詞按原書欄序讀出，源注、合符、返點和館藏印識與正文分層；字位未定以□標示。圖題及標籤以圖像區域定位，圖像座標採館方 IIIF canvas 的尺寸。",
+    "manifest_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/metadata_manifest/RB00001888/manifest.json",
+    "manifest_sha256": "8ea9faa2aae1e64d4d6fc41e64a8570a0e32a12537afcd2b88d7ad949910690b",
+    "record_id": "RB00001888",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "catalogue_canvas_count": 24,
+    "version": "0.1.0",
+    "dataset_title": "宮外妊娠治驗（1854 年署記，京都大學 キ/58） / Kyūgai ninshin chiken [Case record of an extrauterine pregnancy]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p1",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00001_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "1"
+        ]
+      },
+      "file": "01.jpg",
+      "sha256": "a067f7f978339d2a3f7ec17c08f58d0fddd2361043ef26e81d435a15a53cfacf",
+      "bytes": 219330,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "titled-cover",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "cover-title",
+              "location": "封面左側",
+              "text": "宮外妊娠治驗",
+              "color": "black",
+              "language": "lzh"
+            },
+            {
+              "type": "binding-label",
+              "location": "題名下方",
+              "text": "全",
+              "color": "black"
+            },
+            {
+              "type": "shelf-label",
+              "location": "封面右上藍框籤",
+              "text": "富士川本\nキ\n58",
+              "color": "blue",
+              "language": "ja"
+            },
+            {
+              "type": "seal",
+              "location": "封面中央偏右長方朱印",
+              "text": "富士川氏藏",
+              "color": "red"
+            },
+            {
+              "type": "shelf-note",
+              "location": "封面右下墨書",
+              "text": "□□□",
+              "color": "black"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "single",
+          "column": null,
+          "context": "封面右下墨書",
+          "candidates": [
+            "キノ五八"
+          ],
+          "note": "前兩筆接於封面近裝線位置，末字疑八；以□保留，與印刷館籤分開。"
+        }
+      ],
+      "observations": "封面為小幅題名件，下方及左側稍露同裝冊其他稿紙；只記本篇封面層。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p2",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00002_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "2"
+        ]
+      },
+      "file": "02.jpg",
+      "sha256": "69137335ca3342e02c81bd83cfff0cd7090f9c0e78ee1ad6f3bb60a7c9d117c4",
+      "bytes": 205671,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-case-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "宮外妊娠之治驗"
+            },
+            {
+              "text": "東奧相馬宇田郡立谷邑",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "草野某者妻歳三十九從",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆓",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "甲寅春三月絶經水覺腹",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "中有塊焉病如惡阻者凡",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "extras": [
+            {
+              "type": "accession-seal",
+              "location": "左半葉上方黑色橢圓章",
+              "text": "184278\n大正 7. 3. 31",
+              "color": "black"
+            },
+            {
+              "type": "library-seal",
+              "location": "左半葉右上方朱色方篆",
+              "text": "日本京都帝國大學圖書之印",
+              "color": "red"
+            },
+            {
+              "type": "donation-seal",
+              "location": "左半葉欄外右側長方朱印",
+              "text": "富士川游寄贈",
+              "color": "red"
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "observations": "右半葉為封面之背，所見題字為透墨。左半葉起連續墨筆漢文，章與正文分層。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p3",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00003_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "3"
+        ]
+      },
+      "file": "03.jpg",
+      "sha256": "3f789d70ce0203a04b90209de1f214fdb30edb18c01c045f96350a237f7004ea",
+      "bytes": 215232,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-case-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "二月而愈不異于平常一",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "月又少腹痛得食則嘔吐",
+              "marks": [
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "一日吐蛔二三條醫雖施",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "治無寸功自仲夏至季秋",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "其塊物依然如舊且發餘",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "証因請予治診脉沈而細",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "數四肢微冷身體削瘦往",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "來寒熱咳嗽吐粘痰殆不",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "異于瘍療雖然少腹焮腫",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "臍房突起痛楚如以鍼錐",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆘",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 4,
+          "context": "異于瘍療",
+          "candidates": [
+            "瘍療",
+            "瘍療"
+          ],
+          "note": "依原筆辨識兩形，上下文亦可供覆核，未據語境改字。"
+        }
+      ],
+      "observations": "兩半葉都有墨筆漢文和返點／連字符。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p4",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00004_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "4"
+        ]
+      },
+      "file": "04.jpg",
+      "sha256": "9df90626b2bb44dd5871be8ae42f6511aed48d989a9f00952b9a1c6080e980b1",
+      "bytes": 223691,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-case-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "刺以指頭按其腹則催膿",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆖",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "管於是去臍一寸下鍼而",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "出膿汁率可二□後從鍼",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "口用測瘡子探試之應手",
+              "notes": [
+                {
+                  "after": 5,
+                  "lines": [
+                    "□ン□"
+                  ]
+                }
+              ],
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "如骨予曽閲西学家所譯",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "之書有宮外結胎之説因",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "思為腹中無有骨之理是",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "則胞外之妊娠也非施截",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "斷之術不可治雖然瘍狀",
+              "marks": [
+                {
+                  "after": 3,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "亦甚時々發血暈雖施術",
+              "marks": [
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 2,
+          "context": "寸下鍼",
+          "candidates": [
+            "下",
+            "不"
+          ],
+          "note": "該形中豎、右側短畫需覆核。"
+        },
+        {
+          "side": "right",
+          "column": 3,
+          "context": "率可二□",
+          "candidates": [
+            "升",
+            "杯"
+          ],
+          "note": "數量字字形欠明，有異體可能。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "測瘡子欄左細字",
+          "candidates": [
+            "ソンデ",
+            "ゾンデ"
+          ],
+          "note": "字貼近返點與合符，目前保留可見的片假名位置及未定。"
+        }
+      ],
+      "observations": "右半葉「測瘡子」有片假名旁注，正文與旁注分層。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p5",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00005_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "5"
+        ]
+      },
+      "file": "05.jpg",
+      "sha256": "23c8432bc04b3f220217a280e9f80737081e43fbcc8d610af23c390ba7cfba85",
+      "bytes": 229343,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-case-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "難決可治否同藩管野良",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "哲先生者精于經驗之学",
+              "marks": [
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "質諸先生曰予不亦能決",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "然不施術待命期非医之",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆓",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "道也其家族服此言曰自",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆓",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "其坐而待死盡治術而有",
+              "marks": [
+                {
+                  "after": 4,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "變雖死不敢怨悔於是受",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "胎六箇月而縱截臍傍四",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "寸用鑷子緊夾其兒胎徐",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "々出之其形質無異于常",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "予不亦能決",
+          "candidates": [
+            "不亦",
+            "亦不"
+          ],
+          "note": "物理字序為不亦，原筆有乙形交換符。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "管野良哲",
+          "candidates": [
+            "管野良哲",
+            "菅野良哲"
+          ],
+          "note": "正文筆畫作管，人物通名另查，勿改正文。"
+        }
+      ],
+      "observations": "右半葉記問同藩管野良哲與患者家屬的對話，第三欄有一條換序連線。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p6",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00006_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "6"
+        ]
+      },
+      "file": "06.jpg",
+      "sha256": "869b44c31bf37815024221a862083f4cad91b5a3e62be9c87d548e6e33d4110f",
+      "bytes": 227993,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-case-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "胎大七八寸乃施瘡瘍之",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "治法與十全大補湯八九",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "貼而前諸症大半退矣只",
+              "marks": [
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "少腹痛創口不全收而已",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "亦一日出血創口許多病",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "婦以為血下如此決不可",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "起恐悸發暈家人驚来呼",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "予行診語患者曰是月經",
+              "marks": [
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "未能歸于胞中也何足恐",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "乎後愈必矣亦創口出蛔",
+              "marks": [
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "observations": "兩半葉為術後診視記錄。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p7",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00007_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "7"
+        ]
+      },
+      "file": "07.jpg",
+      "sha256": "c68b2d918f6027d7cb309aade968b309a44eb460fff43d21a1a193bd58f91106",
+      "bytes": 223084,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "medical-case-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "虫數條奠投殺虫之圓劑",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "始終與前劑截斷經六十",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "余日而獲全愈此症妊娠",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 2,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "中之竒怪者也西洋人雖",
+              "marks": [
+                {
+                  "after": 3,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆔",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "始發此説未聞有截斷之",
+              "marks": [
+                {
+                  "after": 2,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 7,
+                  "mark": "㆔",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "術予今雖截斷而奏功亦",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "偶中而已何足以語人然",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "天下之廣人民之□竒病",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "怪証當許多又安知無患",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "㆑",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆘",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "㆓",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "此証者乎因詳記以告同",
+              "marks": [
+                {
+                  "after": 3,
+                  "mark": "㆖",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 10,
+                  "mark": "│",
+                  "color": "black"
+                }
+              ]
+            }
+          ],
+          "main_language": "lzh"
+        }
+      ],
+      "issues": [
+        {
+          "side": "right",
+          "column": 1,
+          "context": "虫數條奠投",
+          "candidates": [
+            "奠",
+            "爰",
+            "遂"
+          ],
+          "note": "首選只依字面形狀，須回圖裁定。"
+        },
+        {
+          "side": "left",
+          "column": 3,
+          "context": "人民之□ 竒病",
+          "candidates": [
+            "夥",
+            "影"
+          ],
+          "note": "原筆左似果，右有彡狀三撇，可能是夥的別體。"
+        }
+      ],
+      "observations": "結尾自評個案意義，續到下一幅署年月。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p8",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00008_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "8"
+        ]
+      },
+      "file": "08.jpg",
+      "sha256": "b9c73d6bb75ddd69875eb76818f60d9ab541c17dfb251c84db9ce556e0b68c75",
+      "bytes": 190844,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "author-date-and-original-diagram",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "志且待諸君子之高評云",
+              "marks": [
+                {
+                  "after": 1,
+                  "mark": "㆒",
+                  "color": "black"
+                },
+                {
+                  "after": 3,
+                  "mark": "㆓",
+                  "color": "black"
+                },
+                {
+                  "after": 4,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 5,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 6,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 8,
+                  "mark": "│",
+                  "color": "black"
+                },
+                {
+                  "after": 9,
+                  "mark": "㆒",
+                  "color": "black"
+                }
+              ]
+            },
+            {
+              "text": "爾"
+            },
+            {
+              "text": "安政甲寅中冬"
+            },
+            {
+              "text": "相馬医生"
+            },
+            {
+              "text": "鎌田昌琢記"
+            }
+          ],
+          "main_language": "lzh"
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "figure-title",
+              "location": "左半葉圖右側題記",
+              "text": "截斷之疵露兒胎圖",
+              "color": "black",
+              "figure_zone": "f08-figure-title",
+              "language": "lzh"
+            },
+            {
+              "type": "figure-caption",
+              "location": "左半葉圖內標線旁墨筆",
+              "text": "截疵四寸",
+              "color": "black",
+              "figure_zone": "f08-figure-caption",
+              "language": "lzh"
+            },
+            {
+              "type": "figure-description",
+              "location": "左半葉中部線描示意",
+              "text": "墨線繪人身腹部，黑色陰影與括線連到圖內墨筆標記。",
+              "color": "black",
+              "figure_zone": "f08-figure"
+            },
+            {
+              "type": "figure-reading-marks",
+              "location": "圖題墨筆合符與返點逐字位置",
+              "text": "│@1、㆓@5、㆒@7",
+              "color": "black",
+              "figure_zone": "f08-figure-title"
+            }
+          ]
+        }
+      ],
+      "facsimile_regions": [
+        {
+          "id": "f08-figure",
+          "type": "manuscript-drawing",
+          "bbox": [
+            1379,
+            1059,
+            2297,
+            2396
+          ]
+        },
+        {
+          "id": "f08-figure-title",
+          "type": "figure-title",
+          "bbox": [
+            2342,
+            705,
+            2544,
+            1716
+          ]
+        },
+        {
+          "id": "f08-figure-caption",
+          "type": "figure-label",
+          "bbox": [
+            1595,
+            1520,
+            1724,
+            1820
+          ]
+        }
+      ],
+      "observations": "右半葉為文末與署名，左半葉為原手繪圖，下一圖右半葉為此圖葉背。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://rmda.kulib.kyoto-u.ac.jp/iiif/RB00001888/canvas/p9",
+      "image_url": "https://rmda.kulib.kyoto-u.ac.jp/iiif/3/RB00001888%2FRB00001888_00009_0.ptif/full/2000,/0/default.jpg",
+      "label": {
+        "ja": [
+          "9"
+        ]
+      },
+      "file": "09.jpg",
+      "sha256": "340d7d593a3e243afdb6e3b24381a6020d44d39cb02d077dc32104913adf83c4",
+      "bytes": 217101,
+      "native_width": 5616,
+      "native_height": 3744,
+      "content_role": "out-of-scope-attached-works",
+      "state": "out-of-scope-attached-works"
+    }
+  ]
+}
